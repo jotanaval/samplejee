@@ -1,6 +1,10 @@
 # Sample JAVA EE 7
 	Author: Khemroat Loem
- 	Technologies: JSF, Wildfly (JBoss) as, Maven
+ 	Technologies: 
+	- JSF,
+	- Wildfly (JBoss) 
+	- Maven
+	- Bootstrap v3.3.7
  	Summary: This is a quick sample Java EE7. I uses JSF as front-end. I'm using wildfly as application server, you can also use tomcat
  	Target: 
 
